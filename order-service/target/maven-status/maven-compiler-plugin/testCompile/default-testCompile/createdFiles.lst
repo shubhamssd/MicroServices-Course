@@ -1,0 +1,3 @@
+com\axl\microservice\order\TestcontainersConfiguration.class
+com\axl\microservice\order\TestOrderServiceApplication.class
+com\axl\microservice\order\OrderServiceApplicationTests.class
